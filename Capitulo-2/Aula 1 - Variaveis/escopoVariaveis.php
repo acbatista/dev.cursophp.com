@@ -24,5 +24,5 @@ function exibeNome($nome){
 
 }
 
-exibeNome("Adriano");
+exibeNome("Adriano
 echo $mensagem;
