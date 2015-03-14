@@ -15,10 +15,11 @@
 */
 
 
-//Concatenação
-
- $nome = 'Adriano';
- $sobrenome = 'Carvalho';
- echo "Meu nome completo: ".$nome." ".$sobrenome;
+/*Concatenação
+| Pra usar concatenação e usado o ponto '.'
+|$nome = 'Adriano';
+|$sobrenome = 'Carvalho';
+|echo "Meu nome completo: ".$nome." ".$sobrenome;
+*/
 
 
