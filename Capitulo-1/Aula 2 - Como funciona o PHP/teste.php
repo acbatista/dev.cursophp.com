@@ -7,7 +7,7 @@
 <body>
     <?php
         echo "Esse arquivo não vai ser executado, já que em um servidor
-        php o primeiro arquivo à ser executado é o index.php";
+        php o primeiro arquivo à ser executado é o tipo_dado.php";
     ?>
 </body>
 </html>
